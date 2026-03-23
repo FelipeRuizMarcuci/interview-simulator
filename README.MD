@@ -211,11 +211,7 @@ Porém, esse bug de dados incompletos geralmente ocorre entre dois fatores:
 ---
 
 **Assistant:**
-Boa direção, mas resposta básica.
-
-## 🎤 Pergunta 5
-
-Diferença entre Controller, Service, Module e Guard?
+Boa direção, mas resposta básica.s
 
 ---
 
